@@ -4,11 +4,13 @@
 Description: Address book site for adding contacts and displaying them.
 
 # SetUp and Use
-In order to use this program you will need a browser...NOT IE!
 
 SetUp
+
 1. Open terminal/console type: 'git clone https://github.com/evanb2/addressBookJS'
+
 2. Open the .html file in the root folder in your web browser.
+
 3. Follow the directions on the site.
 
 # Copyright (c) 2015 (Evan Butler)
